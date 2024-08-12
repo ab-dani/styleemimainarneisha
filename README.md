@@ -1,3 +1,6 @@
+![Styleemi](styleemiGithubBanner.jpg)
+
+
 ## Styleemi Treats Website Rebrand
 Dessert Store I am making for a friend of mine.
 
@@ -15,3 +18,5 @@ Dessert Store I am making for a friend of mine.
 [Styleemi Treats Website Original](styleemi.com)
 
 [YouTube Channel](https://www.youtube.com/watch?v=jOey-TCMByg&t=839s)
+
+
