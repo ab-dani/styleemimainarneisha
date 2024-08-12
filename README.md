@@ -1,4 +1,4 @@
-![Styleemi](styleemiGithubBanner.jpg)
+![Styleemi](styleemiGithubBanner.png)
 
 
 ## Styleemi Treats Website Rebrand
