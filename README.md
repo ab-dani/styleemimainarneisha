@@ -15,7 +15,7 @@ Dessert Store I am making for a friend of mine.
 [Wireframe](https://xd.adobe.com/view/f8da92bf-66b3-402e-b865-57a1dd9c2d56-ad89/?fullscreen)
 
 
-[Styleemi Treats Website Original](styleemi.com)
+[Styleemi Treats Original Website](styleemi.com)
 
 [YouTube Channel](https://www.youtube.com/watch?v=jOey-TCMByg&t=839s)
 
